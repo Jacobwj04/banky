@@ -1,0 +1,24 @@
+@use "../abstracts/vars";
+
+.header{
+    background: white;
+    height: map-get(vars.$vhCalc, "heightOfHeader");
+    font-family: 'Kalam', cursive;
+    padding: 2rem;
+    border-top-left-radius: 5rem;
+    border-top-right-radius: 5rem;
+    max-width: 150rem;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+
+    &__logo{
+        display: flex;
+        font-size: 250%;
+        justify-content: center;
+        align-items: center;
+        gap: 0.5rem;
+        font-weight: 400;
+        grid-column-start: 2;
+    }
+}

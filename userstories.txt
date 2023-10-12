@@ -1,0 +1,33 @@
+User stories 1:
+Als gebruiker zou ik mijn rekening kunnen zien zodat ik kan zien hoeveel geld ik heb.
+
+Omschrijving:
+Als je de app opent kan je gelijk je rekening zien.
+
+Stappen:
+visualiseren
+realiseren
+
+
+
+User stories 2:
+Als gebruiker zou ik van rekening willen veranderen zodat ik mijn andere rekening kan beheren.
+
+Omschrijving:
+Als je de app opent kan je van rekening veranderen en de andere rekening beheren.
+
+Stappen:
+visualiseren
+realiseren
+
+
+
+User stories 3:
+Als gebruiker zou ik geld willen kunnen overboeken zodat ik geld kan overzetten
+
+Omschrijving:
+Als je de app opent zie je gelijk een knop met overboeken.
+
+Stappen:
+visualiseren
+realiseren

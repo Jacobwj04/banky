@@ -1,0 +1,16 @@
+@keyframes popup{
+    from{
+        opacity: 0;
+        transform: translateY(2rem);
+
+    }
+    to{
+        opacity: 1;
+        transform: translateY(0rem);
+    }
+}
+
+@mixin popupMixins {
+    animation-name: popup;
+    animation-duration: 0.6s;
+}

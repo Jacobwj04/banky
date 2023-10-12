@@ -1,0 +1,10 @@
+@use "./abstracts/colors";
+@use "./abstracts/vars";
+
+body{
+    padding: map-get(vars.$vhCalc, "paddingOfBody");
+    padding-bottom: 0;
+    font-family: vars.$font-family;
+    background: linear-gradient(to bottom right, map-get(colors.$baseColors, "backgroundDark"),30%, map-get(colors.$baseColors, "background"));
+    min-height: 100vh;
+}

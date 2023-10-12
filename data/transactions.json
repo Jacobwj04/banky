@@ -1,0 +1,40 @@
+{   
+    "Bankrekening": [
+        {
+            "from/to": "Jacob",
+            "amount": 10,
+            "icon": "fa-solid fa-house"
+        },
+        {
+            "from/to": "Jacobx4",
+            "amount": 200
+        },
+        {
+            "from/to": "Jacob",
+            "amount": -100
+        },
+        {
+            "from/to": "JT",
+            "amount": -20
+        }
+    ],
+    "ZZP-Rekening": [
+        {
+            "from/to": "Jacobx4",
+            "amount": 10000,
+            "icon": "fa-solid fa-file-invoice-dollar"
+        },
+        {
+            "from/to": "Jacobx5",
+            "amount": -500
+        },
+        {
+            "from/to": "Jacobx4",
+            "amount": -100
+        },
+        {
+            "from/to": "Jacobx4",
+            "amount": -20
+        }
+    ]
+}
